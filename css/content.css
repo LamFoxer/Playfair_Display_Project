@@ -1,0 +1,60 @@
+/* .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 100px;
+} */
+/* #screen1{
+    width: 1440px;
+    height: 850px;
+    background: url(../img/for\ 1\ screen\ background.png) no-repeat center top;
+} */
+
+/* .planet1{
+    width: 1440px;
+    height: 850px;
+    background: url(../img/planet1.png);
+} */
+/* .whitetext{
+    color: white;
+} */
+h2{
+    font-size: 25px;
+    color: #D5B678;
+}
+
+.screen1{
+    position: relative;
+    width: 1440px;
+    height: 1080px;
+    margin: 0 auto;
+    
+
+}
+.img1{
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    top: 0;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+}
+.s1t1{
+    position: absolute;
+    margin: 0 auto;
+    width: 170px;
+    top: 12%;
+    bottom: 0; 
+    left: 13%;
+    right: 0;
+}
+.s1t2{
+    position: absolute;
+    margin: 0 auto;
+    width: 200px;
+    top: 39.5%;
+    bottom: 0; 
+    left: 53%;
+    right: 0;
+}
